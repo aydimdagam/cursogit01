@@ -1,0 +1,9 @@
+# ignorar binarios
+*.bak
+*.exe
+*.dmg
+*.pkg
+*.orig
+*.o
+*.obj
+node_modules/
