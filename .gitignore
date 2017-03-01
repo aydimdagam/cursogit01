@@ -1,4 +1,5 @@
 # ignorar binarios
+.DS_Store
 *.bak
 *.exe
 *.dmg
