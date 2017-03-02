@@ -1,6 +1,5 @@
 Hola
-<<<<<<< .merge_file_fz1pGE
 Hola2
-=======
-fix01
->>>>>>> .merge_file_NQlW7L
+Hola3
+Hola6
+Hola7
